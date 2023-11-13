@@ -1,2 +1,23 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borsmose consoltning</title>
+
+    <!-- Link til Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container-fluid p-0">
+        <div class="d-flex">
+            <header class="bg-none text-black text-center flex-fill" width="140">
+<div class="col logo-image">
+      <img src="/img/Logo-Farve.png" alt="Logo" width="200" class="d-inline-block align-text-top">
+    </div>
+            
+hey i like this
